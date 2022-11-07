@@ -2,7 +2,7 @@
 # Programación para Internet 2022B
 # Oswaldo Luna León
 
-# Pricipal
+# Principal
 ![image](https://user-images.githubusercontent.com/111943025/199624372-6f29b37c-2c9b-4033-9e68-8ea7963e02e4.png)
 
 # Registrar
